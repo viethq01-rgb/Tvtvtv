@@ -68,3 +68,6 @@ https://edge-hls.sacdnssedge.com/hls/57646687/master/57646687.m3u8
 
 #EXTINF:-1 tvg-logo=",conhang
 https://edge-hls.sacdnssedge.com/hls/245823046/master/245823046.m3u8
+
+#EXTINF:-1 tvg-logo=",Baenee
+https://edge-hls.sacdnssedge.com/hls/138156954/master/138156954.m3u8
