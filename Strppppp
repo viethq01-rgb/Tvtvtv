@@ -71,3 +71,10 @@ https://edge-hls.sacdnssedge.com/hls/245823046/master/245823046.m3u8
 
 #EXTINF:-1 tvg-logo=",Baenee
 https://edge-hls.sacdnssedge.com/hls/138156954/master/138156954.m3u8
+
+#EXTINF:-1 tvg-logo="Onlyyou
+https://edge-hls.sacdnssedge.com/hls/128239320/master/128239320.m3u8
+#EXTINF:-1 tvg-logo="Kikidoll
+https://edge-hls.sacdnssedge.com/hls/178250639/master/178250639.m3u8
+#EXTINF:-1 tvg-logo="itsjoy_universex
+https://edge-hls.sacdnssedge.com/hls/170904426/master/170904426.m3u8
