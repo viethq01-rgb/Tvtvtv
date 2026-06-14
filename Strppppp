@@ -85,3 +85,6 @@ EXTINF:-1 tvg-logo=",Caryln-Bun
 https://edge-hls.sacdnssedge.com/hls/132237732/master/132237732.m3u8
 EXTINF:-1 tvg-logo=",loveMeooMeoo
 https://edge-hls.sacdnssedge.com/hls/151778598/master/151778598.m3u8
+
+#EXTINF:-1 tvg-logo="", Pam_Rabbit
+https://edge-hls.sacdnssedge.com/hls/251503909/master/251503909.m3u8
